@@ -1,0 +1,42 @@
+{
+  "First Name": [
+    "Roberto",
+    "Uhuru",
+    "Yoweri",
+    "Chimamanda",
+    "Specioza",
+    "Wangari"
+  ],
+  "Last Name": [
+    "Buhari",
+    "Sunday",
+    "Museveni",
+    "Adichie",
+    "Kazibwe",
+    "Maathai"
+  ],
+  "Email": [
+    "buhari@example.com",
+    "uhuru@example.com",
+    "museveni@example.com",
+    "adichie@example.com",
+    "specioza@example.com",
+    "wangari@example.com"
+  ],
+  "Gender": [
+    "male",
+    "female",
+    "male",
+    "female",
+    "male",
+    "female"
+  ],
+  "LFA": [
+    "ian.shiundu@example.com",
+    "ian.shiundu@example.com",
+    "muhammed.ali@example.com",
+    "edward.karanja@example.com",
+    "rehema.wachira@example.com",
+    "memuna.haruna@andela.com"
+  ]
+}
